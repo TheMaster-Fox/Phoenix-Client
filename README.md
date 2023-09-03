@@ -1,8 +1,12 @@
 # Phoenix Client
-# *IN VERY EARLY DEVELOPMENT*
+# *YET TO BE DEVELOPED*
 is a mash up of different client mods typically used for technical Minecraft. It consolidates the most useful rules from those mods, and merges rules that can be combined. It also adds some rules of its own! Primarily, Phoenix Client is to serve as a quality of life utility for Minecraft players.
 
+### Discord Server:
+[![Phoenix Discord](https://discordapp.com/api/guilds/802017282728525895/widget.png?style=banner3)](https://discord.gg/invite/wg2w7nvJEV)
+
 # Features
+[[NEW] betterPingDisplay](#betterPingDisplay) 
 
 ## autoCleanContainer
 Automatically drops everything in an opened container and then closes the container [^tis] 
@@ -60,6 +64,12 @@ Automatically trade favorited Villager trades from Item Scroller upon opening Vi
 ## barrierParticleAlwaysVisible
 Makes Barrier Blocks always visible even if not holding it  
 Only affects Creative mode
+* Category:
+* Default value: `N/A`
+* Default toggle state: `false`
+
+## betterPingDisplay
+Changes ping bars in player tab to actual numbers
 * Category:
 * Default value: `N/A`
 * Default toggle state: `false`
